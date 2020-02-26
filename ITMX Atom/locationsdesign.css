@@ -1,0 +1,19 @@
+body {
+  background-color: #a13d2d;
+  color: #FFFFFF;
+  text-align: left;
+}
+a{
+  color: #FFFFFF
+}
+p {
+  color:white;
+  font-size: 25;
+  font-style: helvetica;
+}
+table{
+  text-align: left;
+}
+table, th, td {
+  border: 1px solid black;
+}
